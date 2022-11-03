@@ -8,7 +8,7 @@ function App() {
         Hello React!
       </h1>
       <h2>
-        Daniel DeFrance - h48c334
+        Kirsten Keblish - f51c944
       </h2>
 
       <hr />
